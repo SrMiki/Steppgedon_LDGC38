@@ -3,6 +3,7 @@
 
 A causa de que es demasiado pesado para github, para acceder al proyecto completo está subido en el siguiente enlace en google drive: https://drive.google.com/drive/folders/12JLQulI_RJViU41HWE5qjOrAOh0QS8qg?usp=sharing en formato .zip
 
+También, hay que aclarar que esteproyecto fue desarrollado en una LudumDare en dos días.
 
 # Steppgedon_LDGC38
 Proyecto realizado en la Ludum Dare Gran Canaria edicion 38 (año 2017).
