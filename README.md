@@ -1,3 +1,9 @@
+
+## Importante!
+
+A causa de que es demasiado pesado para github, para acceder al proyecto completo está subido en el siguiente enlace en google drive: https://drive.google.com/drive/folders/12JLQulI_RJViU41HWE5qjOrAOh0QS8qg?usp=sharing en formato .zip
+
+
 # Steppgedon_LDGC38
 Proyecto realizado en la Ludum Dare Gran Canaria edicion 38 (año 2017).
 
@@ -13,3 +19,5 @@ Previo al evento, la organización Acadevi Asociación imparte varios cursos sob
 
 Enlace a la presentación de los juegos de la LDGC38: https://www.youtube.com/watch?v=6iV5CrZncFA
 Enlace directo al momento en el que se presenta Steppgedon (1h 28 min): https://www.youtube.com/watch?v=6iV5CrZncFA&t=1h28m
+
+
